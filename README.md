@@ -77,6 +77,7 @@ This is a **Data Science** project based on the research article - [Toward Gener
 This project consists of *exploratory data analysis*, *extract transform load and model training* and *evaluation* using various data science packages.
 
 
+
 ### Built With
 
 * [Matplotlib](https://matplotlib.org/)
@@ -97,10 +98,14 @@ The project consists of three stages:
 
 The .ipynb (Jupyter Notebook) files contain the three stages of the project.
 
+
+
 ## Exploratory Data Analysis
 
 Exploratory Data Analysis refers to the initial exploration of the dataset along with subtle data analysis to obtain a vague idea about the dataset.<br>
 This consists of statistical description, bar plots, etc.
+
+
 
 ## Extract Transform Load and Model Training
  
@@ -112,17 +117,21 @@ The three models being compared are:
 2. Naive Bayes Classifier
 3. Neural Network Classifier
 
+
+
 ## Model Evaluation
  
 Model evaluation refers to the process of evaluating the process of the models using certain appropriate evaluation metrics and tuning the hyperparameters again based on the results.<br>
 <br>
-We use <i>F1 Score</i> as the primary metric for evaluation.
+We use <i>F1 Score</i> as the primary metric for evaluation purposes.
+
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
 This project was an attempt to replicate the results produced by the research done in the article. 
+
 
 
 <!-- ROADMAP -->
@@ -157,7 +166,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Soundar Murugan - [@soundarzozm](https://twitter.com/soundarzozm)<br>
 E-Mail - [soundarmurugan91@gmail.com](soundarmurugan91@gmail.com)
-
 Project Link: [https://github.com/soundarzozm/network-intrusion-detection](https://github.com/soundarzozm/network-intrusion-detection)
 
 
@@ -168,11 +176,8 @@ Project Link: [https://github.com/soundarzozm/network-intrusion-detection](https
 * [Iman Sharafaldin](https://www.researchgate.net/profile/Iman-Sharafaldin-2)
 * [Arash Habibi Lashkari](https://www.researchgate.net/profile/Arash-Habibi-Lashkari)
 * [Ali A. Ghorbani](https://www.researchgate.net/profile/Ali-Ghorbani-9)
-
 <br>
 For working on the subject and publishing the amazing article.
-
-
 
 
 
