@@ -35,10 +35,10 @@
 <br />
 <p align="left">
 
-  <h1 align="left">Network Intrustion Detection</h1>
+  <h1 align="left">Network Intrusion Detection</h1>
 
   <p align="left">
-    Detect Intrustion in the network using Machine Learning.
+    Detect Intrusion in the network using Machine Learning.
     <br />
     <a href="https://github.com/soundarzozm/network-intrusion-detection"><strong>Explore the docs »</strong></a>
     <br />
