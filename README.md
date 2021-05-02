@@ -106,28 +106,23 @@ This consists of statistical description, bar plots, etc.
  
 Extract Transform Load (ETL) refers to the process of retrieving data from one or more sources into a destination system which represents the data differently from the source or in a different context than the source.<br>
 It also involves transforming the data, feature engineering, detailed data analysis and improving the overall quality of the data.<br>
-Model definition refers to the process of choosing the models those are best suited for the dataset, along with the initial hyperparameters.<br>
-Model training refers to the process of fitting the models to the training data.<br>
+We download the dataset and perform transformations making the data suitable for further stages regarding model training.<br>
+The three models being compared are:
+1. Random Forest Classifier
+2. Naive Bayes Classifier
+3. Neural Network Classifier
 
 ## Model Evaluation
  
 Model evaluation refers to the process of evaluating the process of the models using certain appropriate evaluation metrics and tuning the hyperparameters again based on the results.<br>
 <br>
-It is an iterative process until required performance is obtained. 
-
+We use <i>F1 Score</i> as the primary metric for evaluation.
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-This model can be used at situations where cameras and proximity sensors are not available to determine if there is a human being nearby.<br>
-The model uses various other factors such as:
-* Temperature
-* Humidity
-* Smoke
-* Light
-
-to determine if there is a human being in proximity.
+This project was an attempt to replicate the results produced by the research done in the article. 
 
 
 <!-- ROADMAP -->
@@ -173,6 +168,8 @@ Project Link: [https://github.com/soundarzozm/network-intrusion-detection](https
 * [Iman Sharafaldin](https://www.researchgate.net/profile/Iman-Sharafaldin-2)
 * [Arash Habibi Lashkari](https://www.researchgate.net/profile/Arash-Habibi-Lashkari)
 * [Ali A. Ghorbani](https://www.researchgate.net/profile/Ali-Ghorbani-9)
+
+<br>
 For working on the subject and publishing the amazing article.
 
 
