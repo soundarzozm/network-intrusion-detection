@@ -165,7 +165,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Soundar Murugan - [@soundarzozm](https://twitter.com/soundarzozm)<br>
-E-Mail - [soundarmurugan91@gmail.com](soundarmurugan91@gmail.com)
+E-Mail - [soundarmurugan91@gmail.com](soundarmurugan91@gmail.com)<br>
 Project Link: [https://github.com/soundarzozm/network-intrusion-detection](https://github.com/soundarzozm/network-intrusion-detection)
 
 
